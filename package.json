@@ -1,0 +1,26 @@
+{
+  "name": "@corwin-of-amber/llvm.js",
+  "version": "0.0.1",
+  "description": "A distribution of llvm.js (by kripken)",
+  "main": "llvm.js",
+  "files": [
+      "llvm.js",
+      "llvm-as.js",
+      "llvm-dis.js"
+  ],
+  "scripts": {
+    "build": "./mk-dist.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/corwin-of-amber/llvm.js.git"
+  },
+  "keywords": [
+    "llvm",
+    "llvm-as",
+    "llvm-dis"
+  ],
+  "author": "Corwin of Amber",
+  "license": "MIT",
+  "homepage": "https://github.com/corwin-of-amber/llvm.js#readme"
+}
